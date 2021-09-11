@@ -20,9 +20,8 @@ In order to work on the above problem, you need to do the following:
 1. Text editor-Atom or any text editor that supports python. If you want to interacy with the notebook offline.
 2. Install Python 3.9.0.
 3. Google colab for the data preparation and analysis online.
-4. Required data sets are in the zipped file.
-5. Download and uzip the zipped folder and exctract the file contents.
-6. Load and preview data sets.
+4. Download and uzip the zipped folder and exctract the file contents.
+5. Load and preview data sets.
 
 ## Repository contains
 1. Two datasets
@@ -35,4 +34,4 @@ There are no known bugs in the application.
 This project was implimeted using python. Python libraries used incluse:Seaborn, Scipy, Pandas , Numpy and Matplotlib .
 
 ## Support and contact details
-In case you run into any issues or have querries ,ideas , or concerns, feel free to make a contribution to the code or contact me on Github:Caleb83-Moringa Copyright (c)2021
+In case you run into any issues or have querries ,ideas , or concerns, feel free to make a contribution to the code or contact me on Github:Caleb83-Moringa Copyright (c)2021.
